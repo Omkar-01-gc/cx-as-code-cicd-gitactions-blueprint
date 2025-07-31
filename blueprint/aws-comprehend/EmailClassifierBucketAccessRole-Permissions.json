@@ -7,7 +7,7 @@
         "s3:PutObject"
       ],
       "Resource": [
-        "arn:aws:s3:::inintca-test-bucket/*"
+        "arn:aws:s3:::genesyscici-test-omkar/*"
       ],
       "Effect": "Allow"
     },
@@ -16,7 +16,7 @@
         "s3:ListBucket"
       ],
       "Resource": [
-        "arn:aws:s3:::inintca-test-bucket"
+        "arn:aws:s3:::genesyscici-test-omkar"
       ],
       "Effect": "Allow"
     }

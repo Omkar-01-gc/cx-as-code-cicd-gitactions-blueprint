@@ -16,8 +16,8 @@ lint = true
 [default.deploy.parameters]
 capabilities = "CAPABILITY_IAM"
 confirm_changeset = true
-s3_bucket = "your-bucket-name-here"
-region = "your-aws-region"
+s3_bucket = "genesyscici-test-omkar-aws"
+region = "ap-south-1"
 image_repositories = []
 
 [default.package.parameters]
